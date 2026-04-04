@@ -1,4 +1,4 @@
-# Enterprise Network Lab (CCNA-Level)
+# Enterprise Network Lab (Beginner-Level)
 
 ## 1. Overview
 
